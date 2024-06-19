@@ -1,0 +1,1 @@
+Le fichier app.exe est l'éxécutable de l'application de traduction avec son interface créée avec tkinter

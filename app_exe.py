@@ -8,7 +8,7 @@ class TranslationApp(tk.Tk):
         self.title("Application de Traduction")
         self.geometry("400x300")
 
-        # Créer les widgets
+        # Ici je crée les boutons et widgets
         self.label = ttk.Label(self, text="Entrez le texte à traduire :")
         self.label.pack(pady=10)
 
